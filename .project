@@ -14,11 +14,4 @@
 	<natures>
 		<nature>org.python.pydev.pythonNature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>addons</name>
-			<type>2</type>
-			<location>/home/santi/.kodi/addons</location>
-		</link>
-	</linkedResources>
 </projectDescription>
